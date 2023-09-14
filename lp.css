@@ -1,0 +1,170 @@
+.body {
+ display: flex;
+ flex-direction: column;
+
+}
+
+.header, .footer {
+  display: flex;
+  background-color: #1F2937;
+  color: #f9faf8;
+  text-align: center;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 200px;
+}
+
+ul li {
+  list-style: none;
+  display: inline;
+  margin: 5px;
+  font-size: 18px;
+}
+
+a {
+  color: #E5E7EB;
+  text-decoration: none;
+}
+
+h1 {
+ font-size: 24px;
+}
+
+.body {
+ display: flex;   
+}
+
+.hero {
+ display: flex;
+ justify-content: space-between;
+ font-size: 18px;
+ align-items: center;
+ padding: 40px 200px;
+ background-color: #1F2937;
+ color: #E5E7EB;
+ gap: 50px;
+ height: 300px;
+}
+
+h2 {
+font-size: 48px;
+color: #f9faf8;
+}
+
+#signbutton {
+ background-color: #3882f6;
+ color: #f9faf8;
+ border-radius: 5px;
+ border-style: none;
+ width: 80px;
+ height: 25px;
+}
+
+img {
+ width: 99%;
+}
+
+.second {
+ display: flex;
+ padding: 40px 280px;
+ flex-direction: column;
+ height: 300px;
+}
+
+.sec-container {
+ display: flex;
+ justify-content: space-between;
+ gap: 20px;
+}
+
+.sec-text {
+ text-align: center;
+ color: #1F2937;
+}
+
+.sec-title {
+ text-align: center;
+ margin-bottom: 40px;
+ font-size: 36px;
+ font-weight: 800;
+ color: #1F2937;
+}
+
+.third {
+ display: flex;
+ padding: 0px 200px;
+ flex-direction: column;
+ background-color: #e5e7eb;
+ height: 300px;
+ justify-content: center;
+}
+
+.qoute {
+ font-size: 36px;
+ text-align: center;
+ margin-bottom: 0px;
+}
+
+.credit {
+ font-weight: bold;
+ margin-top: 0px;
+ align-self: flex-end;
+}
+
+.fourth {
+ display: flex;
+ height: 300px;
+ padding: 40px 220px;
+ align-items: center;
+}
+
+.fcl {
+ color: white;
+}
+
+.alert {
+ font-size: 18px;
+ font-weight: bold;
+ margin-bottom: 1px;
+}
+.fourth-container {
+ display: flex;
+ background-color: #3882f6;
+ height: 100px;
+ align-items: center;
+ width: 800px;
+ justify-content: space-around;
+ border-radius: 5px;
+}
+
+.alert-text {
+ margin-top: 1px;
+}
+
+#alertbutton{
+ background-color: #3882f6;
+ color: white;
+ border-radius: 5px;
+ border-color: white;
+ border-style:ridge;
+}
+
+.footer {
+ justify-content: center;
+ height: 75px;
+}
+
+body {
+ margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
